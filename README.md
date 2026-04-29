@@ -11,7 +11,6 @@ The system captures live video from a USB webcam, analyzes 16-frame clips using 
 ```
 ├── model.ipynb          # Model training notebook
 ├── inference.py         # Live detection script (runs on Raspberry Pi)
-├── app.py               # inference server
 ├── best_model_v4.pth    # Trained model weights
 └── requirements.txt     # Python dependencies
 ```
